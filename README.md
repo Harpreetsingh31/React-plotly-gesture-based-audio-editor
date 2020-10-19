@@ -6,5 +6,4 @@ This is WIP project with the objective to create a quick touch/gesture based aud
 The hard part involving audio waveform generation and audio editing has been completed. The next step would be to integrate plotly with react native based soundcloud like app.
 
 ##Gif Shots
-## Plotly audio editing waveform:
 ![animated](Screenshots/App.gif)
